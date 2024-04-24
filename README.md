@@ -1,2 +1,1 @@
-# NFT_MarketPlace
-NFT Market Place
+# ETH-Marketplace
